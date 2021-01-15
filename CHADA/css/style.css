@@ -1,0 +1,114 @@
+body{
+background: url(../img/chada.jpg);
+ 
+ background-size: cover;
+ background-position: center-bottom;
+ width: 99%;
+ text-align: center;
+}
+.CHADA{
+width: 15%;
+float: left;
+
+}
+.CHADA1{width: 69%;float: left;background: #2471a394;}
+form{
+
+display: inline-grid;
+}
+
+input[type="text"]{
+
+background-color: #1e659a96;
+
+border: 0px solid;
+
+box-shadow: 0px 0px 2px #0e0e0e;
+
+margin: 36px 0px 6px 0px;
+}
+
+input[type="text"]:hover{
+
+box-shadow: 0px 0px 6px #0e0e0e;
+
+}
+
+input[type="text" i]{
+
+text-align: center;
+
+padding: 12px 80px 12px 80px;
+
+font-size: 20px;
+
+color: white;
+}
+
+input[type="number"]{background-color: #1e659a96;border: 0px solid;box-shadow: 0px 0px 2px #0e0e0e;margin: 0px 0px 6px 0px;}
+
+input[type="number"]:hover{
+
+box-shadow: 0px 0px 6px #0e0e0e;
+
+}
+
+input[type="number" i]{text-align: center;padding: 12px 66px 12px 80px;font-size: 20px;color: white;}
+
+input[type="submit"]{
+
+background-color: #1e659a96;
+
+border: 0px solid;
+
+box-shadow: 0px 0px 2px #0e0e0e;
+
+margin: 0px 109px 6px 115px;
+}
+
+input[type="submit"]:hover{
+
+box-shadow: 0px 0px 6px #0e0e0e;
+background-color: white;
+
+}
+
+input[type="submit" i]{
+
+padding: 12px 80px 12px 80px;
+
+font-size: 19px;
+
+color: white;
+}
+input[type="submit" i]:hover{
+	color: black;
+}
+
+.CHADA2{
+
+}
+button{
+	margin: 14px 0px 55px 607px;
+	border-radius: 0px 0px 0px 0px;
+	float: left;
+	border: 0px solid;
+	box-shadow: 0px 0px 7px #545454;
+}
+button a{float: left;text-decoration: none;color: black;font-size: 15px;padding: 7px 18px 7px 18px;}
+button:hover{
+box-shadow: 0px 0px 10px #000000;
+background-color: #21618C;
+}
+a:hover{
+color: black;
+}
+h1{
+
+}
+h2{
+	width: 100%;
+	float: left;
+	font-family: 'Great Vibes', cursive;
+	color: white;
+}
